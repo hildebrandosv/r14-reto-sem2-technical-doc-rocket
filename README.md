@@ -44,13 +44,17 @@ ___
 ### - Envío/Entrega:
 + En Academia Geek - Front End 7:
 
+![image](https://user-images.githubusercontent.com/73366557/147798700-78bb4423-5c27-4991-8f1e-b2ed67cb8ae5.png)
    > NOTA: se entregan los retos de la Landing Page de Producto y de la página de Documentación técnica en el mismo formulari de entrega de Academia Geek.
 
 + En freeCodeCamp:
+![image](https://user-images.githubusercontent.com/73366557/147798245-e4c607aa-1107-4fd6-8ebc-ec8466354292.png)
 
 ### - Código fuente:
+![image](https://user-images.githubusercontent.com/73366557/147798118-04c2c629-1145-46d9-8078-97309f0ce205.png)
 
 ### - Resultado:
+![image](https://user-images.githubusercontent.com/73366557/147798141-11b851b0-b5c7-453f-90ae-e738e24b29eb.png)
 
 ___
 ### Hildebrando Sierra V.
