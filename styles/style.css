@@ -21,16 +21,20 @@ header {
 }
 
 #navbar ul {
-  height: 90%;
+  height: 88%;
+  padding: 0;
   overflow-y: auto;
   overflow-x: hidden;
-  opacity: 0.7;
+}
+
+#navbar a {
+  padding: 10px 30px;
 }
 
 #main-doc {
   position: absolute;
-  margin-left: 10px;
-  padding: 20px;
+  margin-left: 1px;
+  padding: 1px;
   margin-bottom: 20px;
 }
 
@@ -47,6 +51,11 @@ section article {
   font-size: 1.4em;
 }
 
+section li {
+  margin: 15px 0px 0px 20px;
+}
+
+
 @media only screen and (max-width: 1800px) {
   #main-doc {
     position: relative;
@@ -62,7 +71,7 @@ section article {
   }
 
   #navbar {
-    background-color: white;
+    background-color: rgb(190, 186, 186);
     position: absolute;
     width: 100%;
     max-height: 275px;
@@ -72,6 +81,7 @@ section article {
   }
 
   #main-doc {
+    background-color: white;
     position: relative;
     margin-left: -500px;
     margin-top: 350px;

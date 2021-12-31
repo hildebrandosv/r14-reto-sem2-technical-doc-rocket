@@ -2,7 +2,7 @@
 ## Reto: Technical Documentation Page | Retos Semana 2 | 29 dec 2021 | Timelines
 
 > ## Formador : John Florez | @JohnFlorez25
-> ## [WebPage] 
+> ## [WebPage] https://hildebrandosv.github.io/r14-reto-sem2-technical-doc-rocket/
 #### [Repositorio] https://github.com/hildebrandosv/r14-reto-sem2-technical-doc-rocket
 ___
 ### --> ENUNCIADO:
